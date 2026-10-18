@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/anatomia-de-classe.iml" filepath="$PROJECT_DIR$/anatomia-de-classe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-tv.iml" filepath="$PROJECT_DIR$/smart-tv.iml" />
     </modules>
   </component>
 </project>
